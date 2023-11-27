@@ -17,4 +17,4 @@ https://level2-assignment2-backend.vercel.app/
 ```
 //get all users:
 /api/users
-```
+```javascript
